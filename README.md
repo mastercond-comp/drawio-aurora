@@ -1,1 +1,1 @@
-# drawio-aurora
+# Draw.io для российской ОС Аврора
